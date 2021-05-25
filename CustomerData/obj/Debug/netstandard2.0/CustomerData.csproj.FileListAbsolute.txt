@@ -1,0 +1,9 @@
+C:\Users\radio\source\repos\Lab1\CustomerData\bin\Debug\netstandard2.0\CustomerData.deps.json
+C:\Users\radio\source\repos\Lab1\CustomerData\bin\Debug\netstandard2.0\CustomerData.dll
+C:\Users\radio\source\repos\Lab1\CustomerData\bin\Debug\netstandard2.0\CustomerData.pdb
+C:\Users\radio\source\repos\Lab1\CustomerData\obj\Debug\netstandard2.0\CustomerData.csprojAssemblyReference.cache
+C:\Users\radio\source\repos\Lab1\CustomerData\obj\Debug\netstandard2.0\CustomerData.AssemblyInfoInputs.cache
+C:\Users\radio\source\repos\Lab1\CustomerData\obj\Debug\netstandard2.0\CustomerData.AssemblyInfo.cs
+C:\Users\radio\source\repos\Lab1\CustomerData\obj\Debug\netstandard2.0\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\radio\source\repos\Lab1\CustomerData\obj\Debug\netstandard2.0\CustomerData.dll
+C:\Users\radio\source\repos\Lab1\CustomerData\obj\Debug\netstandard2.0\CustomerData.pdb
